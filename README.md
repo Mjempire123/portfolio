@@ -156,7 +156,7 @@ my personal portfolio
 <body>
 
   <header>
-    <h1>Your Name</h1>
+    <h1>Muhammad Mujahid Muhammad</h1>
     <p>Software Developer | Frontend Enthusiast | Cloud Practitioner</p>
     <nav>
       <a href="#skills">Skills</a>

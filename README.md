@@ -212,11 +212,11 @@ my personal portfolio
   </section>
 
   <footer>
-    <p>© 2025 Your Name. All rights reserved.</p>
+    <p>© 2025 Muhammad  Mujahid Muhammad. All rights reserved.</p>
     <div class="social-links">
-      <a href="#" title="GitHub">GitHub</a>
-      <a href="#" title="LinkedIn">LinkedIn</a>
-      <a href="#" title="whatsapp">WhatsApp</a>
+      <a href="#" title="GitHub">GitHub.com/Mjempire123</a>
+      <!--a href="#" title="LinkedIn">LinkedIn</a-->
+      <!--a href="#" title="whatsapp">WhatsApp</a-->
     </div>
   </footer>
 
